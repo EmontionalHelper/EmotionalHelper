@@ -336,7 +336,7 @@ export default {
                     // credentials: "include",
                     headers: {
                         "Content-Type": "application/json",
-                        "Authorization": "Bearer pat_6os9bFhLhhTHGU3RtnXr5zBk35SsY4ywysS1JhR90aTpqWuYmv8O6HkUnRIHWBKd",
+                        "Authorization": "你在coze中的身份令牌",
                         "Accept": "*/*",
                         "Host": "api.coze.cn",
                         "Connection": "keep-alive",
